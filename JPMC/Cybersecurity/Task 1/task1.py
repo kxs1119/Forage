@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 
 def exercise_0(file):
     pass
-
 def exercise_1(df):
     pass
 
